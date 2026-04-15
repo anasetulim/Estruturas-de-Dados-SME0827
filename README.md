@@ -1,4 +1,4 @@
-# Estruturas-de-Dados SME0827
+# Estrutura-de-Dados SME0827
 Trabalho realizado para a disciplina de Estruturas de Dados
 - O problema envolvia a otimização da alocação de k brigadas até n focos de incêndios
 - Cada foco de incêndio possuia uma taxa de crescimento diária
